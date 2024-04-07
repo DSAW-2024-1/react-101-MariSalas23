@@ -8,7 +8,7 @@ Mariana Salas Gutiérrez
 
 ## Despliegue Vercel
 
-Link: https://the-simpsons-characters-nr4oozpmw-mariana-ss-projects.vercel.app
+Link: https://the-simpsons-characters.vercel.app/
 
 ## Imágenes
 
